@@ -1,5 +1,5 @@
 name: "."
-title: "Finance internationale"
+title: "Méthodes avancées d'évaluation"
 description: |
   Cours de Finance de finance internationale
 output_dir: "docs"
@@ -9,18 +9,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Plan"
-      menu: 
-        - text: "Plan licence"
-          href: plan_licence.html
-        - text: "Plan master"
-          href: plan_master.html
-    - text: "Lessons" 
-      menu: 
-        - text: "Support de cours"
-          href: support_de_cours.html
-        - text: "Chapitre 1"
-          href: chapitre-1.html
-  
+      href: plan.html
     - text: "About"
       href: about.html
       

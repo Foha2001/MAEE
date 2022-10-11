@@ -1,6 +1,6 @@
 ---
-title: "Cours de Finance internationale"
-image: "images/isg.jpg"
+title: "Cours de Méthodes avancées d'évaluation "
+image: "images/evaluation.jpg"
 links: 
   - label: '<i class="fas fa-envelope"></i> Email'
     url: 'mailto:Foued.hamouda@isggb.u-gabes.tn target="_blank"' 
@@ -15,7 +15,7 @@ site: distill::distill_website
  
 ## Bienvenue --- Welcome ! 
 
-Ce site web est destiné à mes étudiants de L'ISG de Gabès.Vous Trouverez l'essentiel des travaux dirigés et du cours de finance internationale. Je reste à votre disposition pour toute information complémentaire par mail ou forum de discussion.
+Ce site web est destiné à mes étudiants de L'ISG de Gabès.Vous Trouverez l'essentiel du cours de Méthodes avancées d'évaluation. Je reste à votre disposition pour toute information complémentaire par mail ou forum de discussion.
 
 
                                                                                Foued Hamouda
