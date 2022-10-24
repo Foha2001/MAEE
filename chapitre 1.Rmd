@@ -17,3 +17,12 @@ Veillez le télécharger  ici
 </div>
 
 
+
+Le support 2 du cours est disponible en format PDF.
+Veillez le télécharger  ici
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "support 2 cours.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
