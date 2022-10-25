@@ -8,7 +8,7 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-Le support 1 du cours est disponible en format PDF.
+- Le support 1 du cours est disponible en format PDF.
 Veillez le télécharger  ici
 
 <div class="contributor_org">
@@ -18,7 +18,7 @@ Veillez le télécharger  ici
 
 
 
-Le support 2 du cours est disponible en format PDF.
+- Le support 2 du cours est disponible en format PDF.
 Veillez le télécharger  ici
 
 <div class="contributor_org">
@@ -26,7 +26,7 @@ Veillez le télécharger  ici
 `r xfun::embed_file(here::here("files", "support 2 cours.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 
-Le support 3 "Le Disgnostic de l'entreprise" est disponible en format PDF.
+- Le support 3 "Le Disgnostic de l'entreprise" est disponible en format PDF.
 Veillez le télécharger  ici
 
 <div class="contributor_org">
@@ -34,7 +34,7 @@ Veillez le télécharger  ici
 `r xfun::embed_file(here::here("files", "le diagnostic de l_entreprise.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 
-Le support 4 "Les retraitements " est disponible en format PDF.
+- Le support 4 "Les retraitements " est disponible en format PDF.
 Veillez le télécharger  ici
 
 <div class="contributor_org">
@@ -42,4 +42,10 @@ Veillez le télécharger  ici
 `r xfun::embed_file(here::here("files", "les retraitements.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 
+- Le support 4 "L'Actif Net Corrigé " est disponible en format PDF.
+Veillez le télécharger  ici
 
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "actif net corrigé.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
