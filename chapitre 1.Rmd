@@ -55,5 +55,5 @@ Veillez le télécharger  ici
 
 <div class="contributor_org">
 
-`r xfun::embed_file(here::here("files", "les méthodes de goodwill.pdf"), text = "Télécharger le fichier pdf ici")`
+`r xfun::embed_file(here::here("files", "les méthodes du goodwill.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
