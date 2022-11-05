@@ -49,3 +49,11 @@ Veillez le télécharger  ici
 
 `r xfun::embed_file(here::here("files", "actif net corrigé.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
+
+- Le support 5 "Les méthodes de Goodwill " est disponible en format PDF.
+Veillez le télécharger  ici
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "les méthodes de goodwill.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
