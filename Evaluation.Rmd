@@ -1,5 +1,5 @@
 ---
-title: "Evaluation du corps enseignant"
+title: "Evaluation du corps enseignants"
 output: distill::distill_article
 ---
 
