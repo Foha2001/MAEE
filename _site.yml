@@ -16,8 +16,8 @@ navbar:
           href: chapitre-1.html
         - text: "Quiz"
           href: quiz.html
-    - text: Evaluation 
-      href: "Evaluation.html"
+    # - text: Evaluation 
+    #   href: "Evaluation.html"
     - text: "About"
       href: about.html
       
