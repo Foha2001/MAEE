@@ -50,10 +50,28 @@ Veillez le télécharger  ici
 `r xfun::embed_file(here::here("files", "actif net corrigé.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 
-- Le support 5 "Les méthodes de Goodwill " est disponible en format PDF.
+- Le support 5 "Exercice Actif Net Corrigé " est disponible en format PDF.
+Veillez le télécharger  ici
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "exercice ANC.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
+- Le support 6 "Les méthodes de Goodwill " est disponible en format PDF.
 Veillez le télécharger  ici
 
 <div class="contributor_org">
 
 `r xfun::embed_file(here::here("files", "les méthodes du goodwill.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
+
+- Le support 7 "Exercice Goodwill " est disponible en format PDF.
+Veillez le télécharger  ici
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "exercice goodwill.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
+
