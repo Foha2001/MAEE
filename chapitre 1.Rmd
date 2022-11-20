@@ -74,4 +74,7 @@ Veillez le télécharger  ici
 `r xfun::embed_file(here::here("files", "exercice goodwill.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 
-
+- Etude de cas "Recherche des sociétés": Voici les sites web: 
+ https://www.sec.gov/edgar/search/# 
+ https://www.cmf.tn/?q=consultation-des-tats-financier-des-soci-t-s-faisant-ape
+ 
