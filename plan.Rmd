@@ -6,9 +6,6 @@ distill::distill_article:
   toc: true
   toc_depth: 2
   toc_float: true 
-  
-
-
 ---
 
 ```{r setup, include=FALSE}
@@ -22,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Les méthodes de Goodwill
 
 # Chapitre 2 : Méthodes d'évaluation par les méthodes comparatives et des flux financiers
-- Le PER
+-  Le PER
 -  La méthode de Fisher
 -  La méthode de Gordon Shapiro
 -  La méthode de Bates
