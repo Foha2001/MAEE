@@ -1,7 +1,14 @@
 ---
 title: "Plan du cours"
 
-output: distill::distill_article
+output: 
+distill::distill_article:
+  toc: true
+  toc_depth: 2
+  toc_float: true 
+  
+
+
 ---
 
 ```{r setup, include=FALSE}
@@ -11,8 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Chapitre 1 : Méthodes d'évaluation des entreprises par l'approche patrimoniale
 
-  - Méthode de l'Actif Net Corrigé
-  - Les méthodes de Goodwill
+- Méthode de l'Actif Net Corrigé
+- Les méthodes de Goodwill
 
 # Chapitre 2 : Méthodes d'évaluation par les méthodes comparatives et des flux financiers
 - Le PER
