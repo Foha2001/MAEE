@@ -40,4 +40,19 @@ Veillez le télécharger  ici
 `r xfun::embed_file(here::here("files", "exercisePER.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 
+- Le support 5 la méthode de Fisher est disponible en format PDF.
+Veillez le télécharger  ici
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "la méthode de fisher.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
+- Le support 6 exemple la méthode de Fisher est disponible en format PDF.
+Veillez le télécharger  ici
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "exemple méthode de fisher.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
 
