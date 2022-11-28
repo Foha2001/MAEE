@@ -2,10 +2,10 @@
 title: "Plan du cours"
 
 output: 
-distill::distill_article:
-  toc: true
-  toc_depth: 2
-  toc_float: true 
+  distill::distill_article:
+   toc: true
+   toc_depth: 2
+   toc_float: true 
 ---
 
 ```{r setup, include=FALSE}
