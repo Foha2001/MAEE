@@ -1,14 +1,14 @@
 [
   {
     "path": "post/2022-10-23-quiz1/",
-    "title": "Quiz1",
-    "description": "A short description of the post.",
+    "title": "Notes de cours",
+    "description": "Cette partie présente l'explication du cours présenté en classe",
     "author": [],
-    "date": "2022-10-23",
+    "date": "2024-08-14",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nLe support du cours au format PDF qui a été expliqué en classe pendant l’année universitaire 2022 2023 est disponible ici.\r\n\r\nTélécharger le fichier pdf ici\r\n\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-10-23T08:36:04+01:00",
-    "input_file": {}
+    "last_modified": "2024-08-14T10:57:22+01:00",
+    "input_file": "notes1.knit.md"
   }
 ]

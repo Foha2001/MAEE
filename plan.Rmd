@@ -15,8 +15,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Chapitre 1 : Méthodes d'évaluation des entreprises par l'approche patrimoniale
 
-- Méthode de l'Actif Net Corrigé
-- Les méthodes de Goodwill
+##  Méthode de l'Actif Net Corrigé
+##  Les méthodes de Goodwill
 
 # Chapitre 2 : Méthodes d'évaluation par les méthodes comparatives et des flux financiers
 -  Le PER

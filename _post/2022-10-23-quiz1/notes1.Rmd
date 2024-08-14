@@ -1,0 +1,21 @@
+---
+title: "Notes de cours"
+description: |
+  Cette partie présente l'explication du cours présenté en classe 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+- Le support du cours au format PDF qui a été expliqué en classe pendant l'année universitaire 2022 2023 est disponible ici.
+
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files","Notes de cours 1.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+

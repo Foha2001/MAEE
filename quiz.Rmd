@@ -1,4 +1,0 @@
----
-title: "Les Quiz des chapitres"
-listing: post
----
